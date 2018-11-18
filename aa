@@ -1,0 +1,59 @@
+[33mcommit a81fe950a34e593b30ec647f18c28e602280eac0[m
+Author: Taner Sen <s_sent@stud.hwr-berlin.de>
+Date:   Sun Nov 18 06:43:57 2018 -0800
+
+    Add an h1 tag
+
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 4b5fa63..45d754a 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1 +1 @@[m
+[31m-hello, world[m
+[32m+[m[32m<h1>hello, world</h1>[m
+
+[33mcommit b1d53e285284604fde824074610d0a3f59f07c2e[m
+Author: Taner Sen <s_sent@stud.hwr-berlin.de>
+Date:   Sun Nov 18 06:30:59 2018 -0800
+
+    Add baz
+
+[1mdiff --git a/baz b/baz[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+
+[33mcommit 7098dfc091d67c9e52108f8fbea0e11e8c955f9d[m
+Author: Taner Sen <s_sent@stud.hwr-berlin.de>
+Date:   Sun Nov 18 06:15:33 2018 -0800
+
+    Add content to index.html
+
+[1mdiff --git a/index.html b/index.html[m
+[1mindex e69de29..4b5fa63 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mhello, world[m
+
+[33mcommit 43456c228c83751c137a416cf15602f938fa5cba[m
+Author: Taner Sen <s_sent@stud.hwr-berlin.de>
+Date:   Sun Nov 18 06:10:24 2018 -0800
+
+    foo added fixes
+
+[1mdiff --git a/bar b/bar[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/foo b/foo[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+
+[33mcommit ef38c45fc973f3dffb9bd7a3557110ba1cf1a04b[m
+Author: Taner Sen <s_sent@stud.hwr-berlin.de>
+Date:   Sun Nov 18 05:16:12 2018 -0800
+
+    Initialize repository
+
+[1mdiff --git a/index.html b/index.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
